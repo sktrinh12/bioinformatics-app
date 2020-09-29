@@ -1,10 +1,10 @@
 ### General Bioinformatics App
 
 A general bioinformatics app that can parse `fasta` files and read the sequence.
-The app can plot nucleotide frequency, display nucleo content (composition),
+The app can plot nucleotide frequency, display nucleotide content (composition),
 show transcription sequence, translation sequence, complement sequence, amino
-acid frequency and full and short-name of amino acids, and finally, a dot plot
-heatmap of two input sequences.
+acid frequency, full and short-name of amino acids, and finally, a dot plot
+of two input sequences.
 
 Code was inspired by [JCharisTech](https://jcharistech.wordpress.com/).
 
